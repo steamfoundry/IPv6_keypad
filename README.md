@@ -18,5 +18,6 @@ https://github.com/adafruit/Adafruit-NeoKey-1x4-PCB</a> as an example I worked o
 (https://www.adafruit.com)!
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
-See license.txt for additional details.
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">IPv6 Keypad</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/steamfoundry/IPv6_keypad" property="cc:attributionName" rel="cc:attributionURL">Andrew McFarland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
