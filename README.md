@@ -8,6 +8,10 @@ Design is meant for a Seeed XAIO or Adafruit QT Py.  Both have the same footprin
 
 Designed with MX compatible sockets so you can pick your own switches.
 
+### Thanks
+Thanks to Seeed Studios for the nudge to make this.  They are running (as of Aug 18,2022) a contest to use a Seeed XAIO to build a keyboard, then they will build one!
+* https://www.seeedstudio.com/blog/2022/07/11/join-seeed-fusion-diy-xiao-mechanical-keyboard-contest-to-win-1000-coupons-seeed-xiao-pillows-in-prizes/
+Without them, this would have been a lot longer coming
 
 ### License
 Designed by Andrew McFarland
